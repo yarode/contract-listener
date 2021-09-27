@@ -1,0 +1,15 @@
+{
+  "name": "nft_listener",
+  "version": "1.0.0",
+  "description": "listen to token contract for transfers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasper",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "web3": "^1.5.3"
+  }
+}
